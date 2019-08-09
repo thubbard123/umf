@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="Aardvark"
+    Link="/Content/Aardvark/Aardvark.htm" />
+  <TocEntry
+    Title="Baboon"
+    Link="/Content/Aardvark/Baboon.htm" />
+  <TocEntry
+    Title="Crane"
+    Link="/Content/Aardvark/Crane.htm" />
+  <TocEntry
+    Title="Dingo"
+    Link="/Content/Aardvark/Dingo.htm" />
+  <TocEntry
+    Title="Eagle"
+    Link="/Content/Aardvark/eagle.htm" />
+</CatapultToc>

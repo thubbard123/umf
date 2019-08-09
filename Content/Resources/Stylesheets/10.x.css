@@ -1,0 +1,2688 @@
+/*<meta sourceDocument="C:\Users\madmin\Desktop\10.x.xlsx" />*/
+
+table
+{
+	padding: 0;
+	margin: 0;
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+col
+{
+	width: 65px;
+	padding: 0;
+	margin: 0;
+}
+
+tr
+{
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+
+td
+{
+	font-family: Calibri;
+	font-size: 11px;
+	background: white;
+	color: black;
+	padding: 0px;
+	border: none;
+}
+
+.Default
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S21
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+}
+
+.S22
+{
+	vertical-align: bottom;
+	font-weight: bold;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S23
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S24
+{
+	vertical-align: bottom;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-weight: bold;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S25
+{
+	vertical-align: bottom;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S26
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DEE8F2;
+}
+
+.S27
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DEE8F2;
+}
+
+.S28
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #F0F4FA;
+}
+
+.S29
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #EBF1DE;
+}
+
+.S30
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #F0F4FA;
+}
+
+.S31
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #E6E0EC;
+}
+
+.S32
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FDEADA;
+}
+
+.S33
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #F2DCDB;
+}
+
+.S34
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DDD9C3;
+}
+
+.S35
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CCFF;
+}
+
+.S36
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFCC66;
+}
+
+.S37
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #00FFCC;
+}
+
+.S38
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CC00;
+}
+
+.S39
+{
+	vertical-align: bottom;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FDEADA;
+}
+
+.S40
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #0099FF;
+}
+
+.S41
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FF6699;
+}
+
+.S42
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFFFCC;
+}
+
+.S43
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CC99FF;
+}
+
+.S44
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+}
+
+.S45
+{
+	vertical-align: bottom;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	font-weight: bold;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S46
+{
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S47
+{
+	vertical-align: bottom;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S48
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DEE8F2;
+}
+
+.S49
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #00FFCC;
+}
+
+.S50
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DEE8F2;
+}
+
+.S51
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #F0F4FA;
+}
+
+.S52
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DDD9C3;
+}
+
+.S53
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DEE8F2;
+}
+
+.S54
+{
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #E6E0EC;
+}
+
+.S55
+{
+	vertical-align: middle;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S56
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-weight: bold;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S57
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-weight: bold;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S58
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	vertical-align: top;
+	border-left-color: #FFFFFF;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-color: #FFFFFF;
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DEE8F2;
+}
+
+.S59
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DEE8F2;
+}
+
+.S60
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+}
+
+.S61
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S62
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: center;
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DEE8F2;
+}
+
+.S63
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: center;
+	vertical-align: top;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #F0F4FA;
+}
+
+.S64
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #558ED5;
+}
+
+.S65
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #F0F4FA;
+}
+
+.S66
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #F0F4FA;
+}
+
+.S67
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DEE8F2;
+}
+
+.S68
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C3D69B;
+}
+
+.S69
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DDD9C3;
+}
+
+.S70
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S71
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #E6B9B8;
+}
+
+.S72
+{
+	text-align: center;
+	vertical-align: bottom;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S73
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	font-weight: bold;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S74
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+}
+
+.S75
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S76
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #C6D9F1;
+}
+
+.S77
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C6D9F1;
+}
+
+.S78
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DCE6F2;
+}
+
+.S79
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DCE6F2;
+}
+
+.S80
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #EBF1DE;
+}
+
+.S81
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #EBF1DE;
+}
+
+.S82
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #E6E0EC;
+}
+
+.S83
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #E6E0EC;
+}
+
+.S84
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #E6E0EC;
+}
+
+.S85
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C6D9F1;
+}
+
+.S86
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #F2DCDB;
+}
+
+.S87
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #F2DCDB;
+}
+
+.S88
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #EBF1DE;
+}
+
+.S89
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DBEEF4;
+}
+
+.S90
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DBEEF4;
+}
+
+.S91
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #DDD9C3;
+}
+
+.S92
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DDD9C3;
+}
+
+.S93
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #FDEADA;
+}
+
+.S94
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FDEADA;
+}
+
+.S95
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FDEADA;
+}
+
+.S96
+{
+	vertical-align: bottom;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #0000FF;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	text-decoration: underline;
+	background-color: #FFFF00;
+}
+
+.S97
+{
+	text-align: left;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFFF00;
+}
+
+.S98
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFC000;
+}
+
+.S99
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFC000;
+}
+
+.S100
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFC000;
+}
+
+.S101
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #D99694;
+}
+
+.S102
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #558ED5;
+}
+
+.S103
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #558ED5;
+}
+
+.S104
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #558ED5;
+}
+
+.S105
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CC00;
+}
+
+.S106
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CC00;
+}
+
+.S107
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CC00;
+}
+
+.S108
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C4BD97;
+}
+
+.S109
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C4BD97;
+}
+
+.S110
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C4BD97;
+}
+
+.S111
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CCC1DA;
+}
+
+.S112
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CCC1DA;
+}
+
+.S113
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CCC1DA;
+}
+
+.S114
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #8EB4E3;
+}
+
+.S115
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #8EB4E3;
+}
+
+.S116
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CCFF;
+}
+
+.S117
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CCFF;
+}
+
+.S118
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CC99FF;
+}
+
+.S119
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CC99FF;
+}
+
+.S120
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CC99FF;
+}
+
+.S121
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FAC090;
+}
+
+.S122
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FAC090;
+}
+
+.S123
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FAC090;
+}
+
+.S124
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FF6699;
+}
+
+.S125
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FF6699;
+}
+
+.S126
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #D99694;
+}
+
+.S127
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #D99694;
+}
+
+.S128
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #E6E0EC;
+}
+
+.S129
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DCE6F2;
+}
+
+.S130
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DCE6F2;
+}
+
+.S131
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #EBF1DE;
+}
+
+.S132
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DBEEF4;
+}
+
+.S133
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #F2DCDB;
+}
+
+.S134
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #DDD9C3;
+}
+
+.S135
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C6D9F1;
+}
+
+.S136
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFFF00;
+}
+
+.S137
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+}
+
+.S138
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CCFF;
+}
+
+.S139
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CC99FF;
+}
+
+.S140
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #CCC1DA;
+}
+
+.S141
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FAC090;
+}
+
+.S142
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #C4BD97;
+}
+
+.S143
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FF6699;
+}
+
+.S144
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #99CC00;
+}
+
+.S145
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #D99694;
+}
+
+.S146
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #FFC000;
+}
+
+.S147
+{
+	text-align: center;
+	vertical-align: middle;
+	border-left-color: #000000;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	color: #000000;
+	font-family: "Calibri", "";
+	font-size: 11px;
+	background-color: #8EB4E3;
+}
+

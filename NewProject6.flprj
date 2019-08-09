@@ -1,90 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject
-  Version="1"
-  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
-  MasterStylesheetOverride="True"
-  xml:lang="en-us"
-  SourceControlBound="true"
-  Comment="This template contains several starter topics and other files intended for online HTML5 output that looks like a modern website with navigation on the side (left or right). It offers a frameless, modern alternative to the more traditional tripane format. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen."
-  SourceControlProviderType="Git"
-  ProjectGuid="e55ae604-37c8-448c-a980-c26eeb4998ee"
-  IncludePattern="*.htm;*.html"
-  AutoExcludeNonTaggedFiles="false"
-  IncludeLinkedFiles="false"
-  DeleteStale="false"
-  DeleteUnreferenced="false"
-  AutoSync="true"
-  LastImport="2019-08-08T13:00:45.3090880-07:00">
-  <Files>
-    <Url
-      Source="file:///C:/Users/madmin/Documents/My Projects/NewProject5/NewProject5.flprj"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/NewProject5.flprj" />
-  </Files>
-  <ExcludedFiles />
-  <CollectedSourceFiles>
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/Feature1.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Feature1.htm" />
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure1.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure1.htm" />
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure2.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure2.htm" />
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure3.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure3.htm" />
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedures.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedures.htm" />
-  </CollectedSourceFiles>
-  <SkippedSourceFiles>
-    <Url
-      Source="../NewProject5/Content/Home.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/Home.htm" />
-    <Url
-      Source="../NewProject5/Content/A-Introduction-Topics/Getting-Started.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/A-Introduction-Topics/Getting-Started.htm" />
-    <Url
-      Source="../NewProject5/Content/A-Introduction-Topics/More-Information.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/A-Introduction-Topics/More-Information.htm" />
-    <Url
-      Source="../NewProject5/Content/A-Introduction-Topics/Whats-New.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/A-Introduction-Topics/Whats-New.htm" />
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/Feature2.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Feature2.htm" />
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/Feature3.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Feature3.htm" />
-    <Url
-      Source="../NewProject5/Content/B-Feature-Topics/Features.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Features.htm" />
-    <Url
-      Source="../NewProject5/Content/D-Reference/Company.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/D-Reference/Company.htm" />
-    <Url
-      Source="../NewProject5/Content/D-Reference/FAQs.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/D-Reference/FAQs.htm" />
-    <Url
-      Source="../NewProject5/Content/D-Reference/Tips.htm"
-      AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/D-Reference/Tips.htm" />
-  </SkippedSourceFiles>
-  <GeneratedFiles>
-    <Url
-      Source="Content/B-Feature-Topics/Feature1.htm"
-      TimeStamp="8/8/2019 12:35:02 PM" />
-    <Url
-      Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedure1.htm"
-      TimeStamp="5/1/2019 6:35:42 PM" />
-    <Url
-      Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedure2.htm"
-      TimeStamp="5/1/2019 6:35:42 PM" />
-    <Url
-      Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedure3.htm"
-      TimeStamp="5/1/2019 6:35:42 PM" />
-    <Url
-      Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedures.htm"
-      TimeStamp="5/1/2019 6:35:42 PM" />
-  </GeneratedFiles>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains several starter topics and other files intended for online HTML5 output that looks like a modern website with navigation on the side (left or right). It offers a frameless, modern alternative to the more traditional tripane format. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen." SourceControlProviderType="Git" ProjectGuid="e55ae604-37c8-448c-a980-c26eeb4998ee" IncludePattern="*.htm;*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2019-08-08T13:00:45.3090880-07:00">
+    <Files>
+        <Url Source="file:///C:/Users/madmin/Documents/My Projects/NewProject5/NewProject5.flprj" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/NewProject5.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../NewProject5/Content/B-Feature-Topics/Feature1.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Feature1.htm" />
+        <Url Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure1.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure1.htm" />
+        <Url Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure2.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure2.htm" />
+        <Url Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure3.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedure3.htm" />
+        <Url Source="../NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedures.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/C-Procedure-Topics/Procedures.htm" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles>
+        <Url Source="../NewProject5/Content/Home.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/Home.htm" />
+        <Url Source="../NewProject5/Content/A-Introduction-Topics/Getting-Started.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/A-Introduction-Topics/Getting-Started.htm" />
+        <Url Source="../NewProject5/Content/A-Introduction-Topics/More-Information.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/A-Introduction-Topics/More-Information.htm" />
+        <Url Source="../NewProject5/Content/A-Introduction-Topics/Whats-New.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/A-Introduction-Topics/Whats-New.htm" />
+        <Url Source="../NewProject5/Content/B-Feature-Topics/Feature2.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Feature2.htm" />
+        <Url Source="../NewProject5/Content/B-Feature-Topics/Feature3.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Feature3.htm" />
+        <Url Source="../NewProject5/Content/B-Feature-Topics/Features.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/B-Feature-Topics/Features.htm" />
+        <Url Source="../NewProject5/Content/D-Reference/Company.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/D-Reference/Company.htm" />
+        <Url Source="../NewProject5/Content/D-Reference/FAQs.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/D-Reference/FAQs.htm" />
+        <Url Source="../NewProject5/Content/D-Reference/Tips.htm" AbsoluteSource="file:///C:/Users/madmin/Documents/My Projects/NewProject5/Content/D-Reference/Tips.htm" />
+    </SkippedSourceFiles>
+    <GeneratedFiles>
+        <Url Source="Content/B-Feature-Topics/Feature1.htm" TimeStamp="8/8/2019 12:35:02 PM" />
+        <Url Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedure1.htm" TimeStamp="5/1/2019 6:35:42 PM" />
+        <Url Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedure2.htm" TimeStamp="5/1/2019 6:35:42 PM" />
+        <Url Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedure3.htm" TimeStamp="5/1/2019 6:35:42 PM" />
+        <Url Source="Content/B-Feature-Topics/C-Procedure-Topics/Procedures.htm" TimeStamp="5/1/2019 6:35:42 PM" />
+    </GeneratedFiles>
 </CatapultProject>

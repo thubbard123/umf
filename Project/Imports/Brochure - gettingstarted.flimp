@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveSourceStyles="true" KeepSourceLinks="true" ConvertInlineFormatting="true" AddContinuedLinks="false" AddContinuedFromLinks="false" ContinuedLinkFormat="(continued in {title})" ContinuedFromLinkFormat="(continued from {title})" UseMaxCharLimit="false" UseMinCharLimit="true" MaxCharLimit="10000" MinCharLimit="50" FilenameLength="24" GeneratePageLayouts="false" UseFirstHeadingAsTopicTitle="true" ConvertEquations="true" LastCollectTime="2019-08-09T10:21:29.8889790-07:00" ProjectName="NewProject6" ProjectFolder="C:\Users\madmin\Documents\My Projects\NewProject6\" AutoSync="true" AutoFitTables="false" UseHeaderRows="false" LastImport="2019-08-09T10:20:01.0404908-07:00">
+    <Files>
+        <Url Source="../../../../../Desktop/Brochure - gettingstarted.doc" AbsoluteSource="file:///C:/Users/madmin/Desktop/Brochure - gettingstarted.doc" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Brochure - gettingstarted.png" TimeStamp="8/9/2019 10:19:52 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search.png" TimeStamp="8/9/2019 10:19:52 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_1.png" TimeStamp="8/9/2019 10:19:53 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_2.png" TimeStamp="8/9/2019 10:19:54 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_3.png" TimeStamp="8/9/2019 10:19:54 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_4.png" TimeStamp="8/9/2019 10:19:54 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_5.png" TimeStamp="8/9/2019 10:19:54 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_6.png" TimeStamp="8/9/2019 10:19:55 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_7.png" TimeStamp="8/9/2019 10:19:55 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_8.png" TimeStamp="8/9/2019 10:19:55 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_9.png" TimeStamp="8/9/2019 10:19:56 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Create a Precise Search_10.png" TimeStamp="8/9/2019 10:19:56 AM" />
+        <Url Source="../../Content/Brochure - gettingstarted/Create a Precise Search.htm" TimeStamp="8/9/2019 10:19:59 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Article Images and Page Images.png" TimeStamp="8/9/2019 10:19:57 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Article Images and Page Images_1.png" TimeStamp="8/9/2019 10:19:57 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Article Images and Page Images_2.png" TimeStamp="8/9/2019 10:19:58 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Article Images and Page Images_3.png" TimeStamp="8/9/2019 10:19:58 AM" />
+        <Url Source="../../Content/Resources/Images/Brochure - gettingstarted/Article Images and Page Images_4.png" TimeStamp="8/9/2019 10:19:58 AM" />
+        <Url Source="../../Content/Brochure - gettingstarted/Article Images and Page Images.htm" TimeStamp="8/9/2019 10:19:59 AM" />
+        <Url Source="../TOCs/Brochure - gettingstarted.fltoc" TimeStamp="8/9/2019 10:19:59 AM" />
+        <Url Source="../../Content/Resources/MasterPages/Brochure - gettingstarted.flmsp" TimeStamp="8/9/2019 10:19:59 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/Brochure - gettingstarted.css" TimeStamp="8/9/2019 10:19:59 AM" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="Heading 1" To="h1.Heading 1" />
+        <Map From="Heading 2" To="h2.Heading 2" />
+        <Map From="Heading 3" To="h3.Heading 3" />
+    </ParagraphStyles>
+    <CharacterStyles>
+        <Map From="Hyperlink" To="a.(MS Word Style)" />
+    </CharacterStyles>
+    <NewTopicStyles />
+    <UsedParagraphStyles>
+        <StyleName Name="Heading 1" />
+        <StyleName Name="Body Text" />
+        <StyleName Name="Title" />
+        <StyleName Name="Heading 2" />
+        <StyleName Name="Table Text" />
+        <StyleName Name="Heading 3" />
+        <StyleName Name="Bullet" />
+        <StyleName Name="steps" />
+        <StyleName Name="heading 1 page 1" />
+    </UsedParagraphStyles>
+    <UsedCharacterStyles>
+        <StyleName Name="Page Number" />
+        <StyleName Name="Hyperlink" />
+        <StyleName Name="menu choice" />
+        <StyleName Name="heading 1 page 1" />
+        <StyleName Name="step number" />
+    </UsedCharacterStyles>
+</MsWordImport>

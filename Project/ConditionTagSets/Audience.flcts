@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Name="internal"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="visitor"
+    BackgroundColor="#0000ff" />
+</CatapultConditionTagSet>

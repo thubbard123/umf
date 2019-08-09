@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport SaveWorkbookToFolder="false" WorksheetImportType="topic" PersistFirstRowAsHeader="false" LimitRows="false" LimitRowsCount="30" SaveChartsAs="true" SaveChartsAsType="Png" ConvertEquations="true" ExclusionFilters="" CreateMasterTopic="false" IncludeWorksheetTitlesAsHeadings="false" ImportHiddenRowsColumns="false" KeepSourceLinks="true" AutoSync="true" Stylesheet="" PreserveSourceStyles="true" LastImport="2019-08-09T10:20:16.1082312-07:00">
+    <Files>
+        <Url Source="../../../../../Desktop/10.x.xlsx" AbsoluteSource="file:///C:/Users/madmin/Desktop/10.x.xlsx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Resources/Stylesheets/10.x.css" TimeStamp="8/9/2019 10:20:14 AM" />
+        <Url Source="../../Content/10.x/Sheet1.htm" TimeStamp="8/9/2019 10:20:14 AM" />
+        <Url Source="../../Content/10.x/Sheet2.htm" TimeStamp="8/9/2019 10:20:14 AM" />
+        <Url Source="../../Content/10.x/Sheet3.htm" TimeStamp="8/9/2019 10:20:14 AM" />
+        <Url Source="../TOCs/10.x.fltoc" TimeStamp="8/9/2019 10:20:14 AM" />
+    </GeneratedFiles>
+</MsExcelImport>

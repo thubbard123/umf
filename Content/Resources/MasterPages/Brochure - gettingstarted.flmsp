@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:sourceDocument="C:\Users\madmin\Desktop\Brochure - gettingstarted.doc">
+    <head><title></title>
+        <link href="../Stylesheets/Brochure - gettingstarted.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p class="Title_1"><span class="span_8">Quick Reference Guide</span>
+                <img src="../Images/Brochure - gettingstarted/Brochure - gettingstarted.png" style="width: 168px;height: 24px;" />
+            </p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="Footer_1"><span class="PageNumber">12</span><span class="PageNumber">9/23/05For more info: </span><a href="http://training.proquest.com">http://training.proquest.com</a><a name="_Hlt115233455"></a><a name="_Hlt115233456"></a><span class="PageNumber"><br /></span><span class="PageNumber_1">ProQuest training material – permission to copy</span>
+            </p>
+        </div>
+    </body>
+</html>

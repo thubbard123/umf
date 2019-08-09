@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DitaImport ProjectName="NewProject6" ProjectFolder="C:\Users\madmin\Documents\My Projects\NewProject6\" KeepSourceLinks="true" AutoSync="true" KeepElementIDs="false" CreateSeparateTocs="true" SaveContentToOneFolder="true" LastImport="2019-08-09T10:20:35.2357118-07:00">
+    <Files>
+        <Url Source="../../../../../Desktop/dita_zoo/Aardvark.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Aardvark.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/Baboon.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Baboon.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/Crane.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Crane.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/Dingo.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Dingo.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/eagle.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/eagle.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/zoo.ditamap" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/zoo.ditamap" />
+        <Url Source="../../../../../Desktop/dita_zoo/zoo2.ditamap" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/zoo2.ditamap" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../../../../Desktop/dita_zoo/Aardvark.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Aardvark.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/Baboon.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Baboon.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/Crane.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Crane.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/Dingo.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Dingo.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/eagle.xml" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/eagle.xml" />
+        <Url Source="../../../../../Desktop/dita_zoo/Baboon.xml#topic_EF23006D7D964940AD2C042DE5EC2FA7" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Baboon.xml#topic_EF23006D7D964940AD2C042DE5EC2FA7" />
+        <Url Source="../../../../../Desktop/dita_zoo/Crane.xml#cranes" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Crane.xml#cranes" />
+        <Url Source="../../../../../Desktop/dita_zoo/Dingo.xml#topic_7EFA1DEE11B640C39890322736A0B64B" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/Dingo.xml#topic_7EFA1DEE11B640C39890322736A0B64B" />
+        <Url Source="../../../../../Desktop/dita_zoo/eagle.xml#topic_4FDA96A093724003ADFB43965B15E3F2" AbsoluteSource="file:///C:/Users/madmin/Desktop/dita_zoo/eagle.xml#topic_4FDA96A093724003ADFB43965B15E3F2" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Aardvark/Aardvark.htm" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../../Content/Aardvark/Baboon.htm" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../../Content/Aardvark/Crane.htm" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../../Content/Aardvark/Dingo.htm" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../../Content/Aardvark/eagle.htm" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../TOCs/Aardvark.fltoc" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../TOCs/zoo.fltoc" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../TOCs/zoo2.fltoc" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../../Content/Aardvark/Aardvark.css" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../ConditionTagSets/Audience.flcts" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../../Content/Aardvark/Aardvark_nofeeding.flsnp" TimeStamp="8/9/2019 10:20:33 AM" />
+        <Url Source="../../Content/Aardvark/eagle_noclipping.flsnp" TimeStamp="8/9/2019 10:20:33 AM" />
+    </GeneratedFiles>
+    <ImportStyles />
+</DitaImport>
