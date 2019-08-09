@@ -8,7 +8,7 @@
   MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
   DefaultUrl="/Content/Home.htm"
   ShowMadCapBacklink="true"
-  GetLatestBeforeCompile="false">
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
